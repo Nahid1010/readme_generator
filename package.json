@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nahid1010/readme_generator/issues"
   },
-  "homepage": "https://github.com/Nahid1010/readme_generator#readme"
+  "homepage": "https://github.com/Nahid1010/readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
